@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TABLAS DE MULTIPLICAR PYTHON", "TABLAS DE MULTIPLICAR PYTHON\TABLAS DE MULTIPLICAR PYTHON.pyproj", "{4EFC7AFE-B7B2-473E-9707-5916752FB0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFC7AFE-B7B2-473E-9707-5916752FB0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFC7AFE-B7B2-473E-9707-5916752FB0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E847E53-45C7-4281-9A24-FAE1B102BB17}
+	EndGlobalSection
+EndGlobal
